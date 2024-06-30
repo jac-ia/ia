@@ -12,5 +12,6 @@ pip install selenium==4.9.1
 pkg install x11-repo -y
 pkg install tur-repo -y
 pkg install chromium -y
-curl -o actualizar.py https://pastebin.com/raw/NPPSaQge
+curl -o config.ini https://pastebin.com/raw/NPPSaQge
+curl -o actualizar.py https://pastebin.com/raw/ANsknUy1
 echo "Proceso finalizado"
